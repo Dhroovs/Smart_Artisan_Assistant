@@ -15,7 +15,7 @@ The platform provides dedicated dashboards for:
 
 This project focuses on solving real-world artisan management problems using scalable full-stack architecture and modern UI/UX principles.
 
----
+----
 
 # 🚀 Features
 
@@ -28,7 +28,7 @@ This project focuses on solving real-world artisan management problems using sca
 - Reports & analytics
 - Artisan profile management
 
----
+----
 
 ## 💰 Accountant Dashboard
 - Payment management
