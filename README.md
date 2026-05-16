@@ -37,7 +37,7 @@ This project focuses on solving real-world artisan management problems using sca
 - Financial reports
 - Revenue summaries
 
----
+----
 
 ## 🛠️ Admin Dashboard
 - User management
@@ -46,7 +46,7 @@ This project focuses on solving real-world artisan management problems using sca
 - Revenue overview
 - System reports
 
----
+----
 
 # 🧠 AI Features
 
