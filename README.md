@@ -25,7 +25,7 @@ This project focuses on solving real-world artisan management problems using sca
 - Material usage tracking
 - Earnings insights
 - AI-powered assistant
-- Reports & analytics
+- Reports & analytics.
 - Artisan profile management
 
 ----
